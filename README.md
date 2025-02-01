@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Welcome to the **Machine Learning Projects Repository**! This repository showcases a diverse range of projects, from classical machine learning algorithms to advanced deep learning models. Each project is designed to demonstrate practical applications, making it a valuable resource for learning and experimentation.
+Welcome to the **Machine Learning Repository**! This repository showcases a diverse range of projects, from classical machine learning algorithms to advanced deep learning models. Each project is designed to demonstrate practical applications, making it a valuable resource for learning and experimentation.
 
 ## 📂 Content
 
